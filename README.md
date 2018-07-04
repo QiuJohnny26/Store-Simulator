@@ -11,7 +11,7 @@ Hunter Inc will just deliver what it has at hand to complete the order.
 
 Main Purpose of this project is the ability to use pointers efficiently.
 
-To Run it
+To Run it</br>
 
-1.Download the Zip
-2.Compile it
+1.Download the Zip</br>
+2.Compile it</br>
